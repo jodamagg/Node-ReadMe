@@ -1,6 +1,6 @@
-# ReadME-Generator 
+# ReadMe-Generator 
   ## Description
-  My motivation for this project was to create an easy application to create ReadME files for my future applications.
+  I created an application to easily create ReadME based on users inputs using NodeJs.
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -9,16 +9,16 @@
   - [Tests](#tests)
   - [Questions](#questions)
   ## Installation
-  To install the application you just need to download the code.
+  Download to a folder as well as install Node/Inquirer.
   ## Usage
-  Use a standard node index.js to call the prompt and answer the questions using the enter key
+  Call the prompt using node index.js and answer the questions.
   ## License 
 
   ![MIT](https://img.shields.io/badge/LICENSE-MIT-blue) 
 
   ## Contributing
-  Josh Lee , 
+  Josh Lee , Lacey Pape, Chip Long
   ## Tests
-  
+  N/A
   ## Questions
-  Any Questions? Contact me! Github: https://github.com/jodamagg Email: jodamagg@.com
+  Any Questions? Contact me! Github: https://github.com/jodamagg Email: jodamagg@gmail.com
